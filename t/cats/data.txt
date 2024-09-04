@@ -1,0 +1,1 @@
+query_id=AAGXcudXAAAAAJdy51ct5b6_&user=%7B%22id%22%3A1474785943%2C%22first_name%22%3A%22minhtu2702%20not%20eligible%20%F0%9F%86%93%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22minhtu2702%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725099356&hash=fa7c8de156a18e16acef84c73fb76987245014ac8b3b131d627aaf7550b716fc
